@@ -1,5 +1,5 @@
 {
-    "version": "0.3.6",
+    "version": "0.3.7",
     "description": "Verification queue for coding agents",
     "homepage": "https://verifique.ai",
     "license": "Apache-2.0",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/smnkgv/verifique/releases/download/v0.3.6/verifique-windows-x64.zip",
-            "hash": "33f05180a426c67e3196a0e4a5c33a736d0b07abaf75ca882feee9a0459be382"
+            "url": "https://github.com/smnkgv/verifique/releases/download/v0.3.7/verifique-windows-x64.zip",
+            "hash": "6e41d24b2c642e0337af580c423f7483e5a4701cdfc1c71e20bb28947c0b1f5f"
         },
         "arm64": {
-            "url": "https://github.com/smnkgv/verifique/releases/download/v0.3.6/verifique-windows-arm64.zip",
-            "hash": "f0c112744b6036092bfff0283c658fa50817185d75c8f7e9b684b1ebcbcba319"
+            "url": "https://github.com/smnkgv/verifique/releases/download/v0.3.7/verifique-windows-arm64.zip",
+            "hash": "0586d395c2f5421ddea0f5cc9ebaa82efffeec77fd85b6e7f8895a94f23e6177"
         }
     },
     "bin": "verifique.exe",
